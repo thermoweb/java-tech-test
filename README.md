@@ -7,4 +7,4 @@ First exercice :
 
 Dev review :  
 [please review singleton class](src/main/java/org/thermoweb/review/singleton_class.java)  
-[please review PrimeNumberGenerator class](src/main/java/org/thermoweb/review/singleton_class.java)  
+[please review PrimeNumberGenerator class](src/main/java/org/thermoweb/review/PrimeNumberGenerator.java)  
